@@ -63,6 +63,5 @@ public class Operators {
         byte z =50;
         s=z%2==0?"Even":"Not even";
         System.out.println(s);
-
     }
 }

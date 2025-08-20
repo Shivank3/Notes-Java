@@ -5,7 +5,7 @@ public class dataTypesAndLiterals {
         short c = 3738; // short is a 16-bit integer (-32,768 to 32,767).
         // It can be used for memory optimization or APIs (like TCP/UDP ports, which fit in 16 bits).
         long d = 476655; // 64 bits which is 8 bytes
-        double e = 344555555555555555555555d; // 64 bits
+        double e = 34455555777777d; // 64 bits
         float f = 3466.34f;
         boolean bool = true; // not precisely defined often stored as 1 bit
         String str = "Shiva";
