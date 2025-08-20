@@ -1,6 +1,6 @@
 public class Statickeyword {
 
-    // static variable members
+    // static members variable
     static int a=10,b=20;
     int z=15;
     static int count = 0;
