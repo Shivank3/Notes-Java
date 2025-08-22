@@ -15,12 +15,16 @@ interface Iphone11
     String s1 = "12MP camera";
     void show();
 }
+interface  lap
+{
+    void Display();
+}
 class Mac{
     public void Display(){
         System.out.println("Facetime");
     }
 }
-class Iphone12 extends Mac implements Iphone11
+class Iphone12 extends Mac implements Iphone11, lap
 {
     // override
     public void show()
