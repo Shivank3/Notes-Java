@@ -35,7 +35,7 @@ public class ExceptionHandling {
 //    // Potential IOException must be declared
 //}
 
-
+// at compile time use try catch exception or throw/throws exception
 
 
 //  try block is always executed based on the condition ->
