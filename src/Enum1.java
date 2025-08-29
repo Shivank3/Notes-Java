@@ -10,7 +10,7 @@ public class Enum1 {
     }
 }
 enum Laptop{
-    MackBook, Xps(2200), Surface, ThinkPad(4000);
+    MackBook, Xps( 2200), Surface, ThinkPad(4000);
 
     private int price;
     Laptop()
