@@ -49,7 +49,7 @@ public class Enums {
 enum Status
 {
     Running, pending, failed, success;
-    // 0,1,2,3
+    // 0,1,2,3 arbitary value
 }
 
         // enumeration

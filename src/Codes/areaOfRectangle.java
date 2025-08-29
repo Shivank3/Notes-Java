@@ -3,7 +3,7 @@ package Codes;
 // we need to calculate area? -> length*breadth
 import java.util.Scanner;
 
-public class code1 {
+public class areaOfRectangle {
     public static void main(String[] args)
     {
         double area = 0;
