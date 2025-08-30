@@ -1,8 +1,8 @@
 package Codes;
 import java.util.Scanner;
 
-public class multipleMathPrograms {
-    public static void main(String[] args)
+public class multipleMathPrograms4 {
+    public static void main(StringPrograms9[] args)
     {
         // circumference = 2 * Math.PI * radius;
         // area = Math.PI * Math.pow(radius, 2)
@@ -27,3 +27,5 @@ public class multipleMathPrograms {
         scanner.close();
     }
 }
+
+// printf() -> is a method used to format output

@@ -1,8 +1,8 @@
 package Codes;
 import java.util.Scanner;
 // Age-identifier -> define age and return based on their type
-public class ageIdentifier {
-    static void main(String[] args)
+public class ageIdentifier5 {
+    static void main(StringPrograms9[] args)
     {
         double age;
         Scanner scanner = new Scanner(System.in);

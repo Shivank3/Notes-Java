@@ -2,7 +2,7 @@ package Codes;
 import java.util.Scanner;
 
 // shopping cart program
-public class shoppingCart {
+public class shoppingCart7 {
 
     public static void main(String[] args)
     {

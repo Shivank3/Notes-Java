@@ -1,8 +1,8 @@
 package Codes;
 import java.util.Random;
 
-public class randomGenerator {
-    public static void main(String[] args)
+public class randomGenerator6 {
+    public static void main(StringPrograms9[] args)
     {
         Random random = new Random();
 
