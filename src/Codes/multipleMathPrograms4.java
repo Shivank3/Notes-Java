@@ -2,7 +2,7 @@ package Codes;
 import java.util.Scanner;
 
 public class multipleMathPrograms4 {
-    public static void main(StringPrograms9[] args)
+    public static void main(String[] args)
     {
         // circumference = 2 * Math.PI * radius;
         // area = Math.PI * Math.pow(radius, 2)

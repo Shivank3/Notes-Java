@@ -1,7 +1,7 @@
 package Codes;
 
 public class mathClass3 {
-    public static void main(StringPrograms9[] args)
+    public static void main(String[] args)
     {
         double result;
 

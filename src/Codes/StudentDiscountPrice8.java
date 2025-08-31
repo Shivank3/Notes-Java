@@ -1,7 +1,7 @@
 package Codes;
 
 public class StudentDiscountPrice8 {
-    public static void main(StringPrograms9[] args)
+    public static void main(String[] args)
     {
         // nested if else statements
         boolean isStudent = true;

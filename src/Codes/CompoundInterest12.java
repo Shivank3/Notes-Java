@@ -2,7 +2,7 @@ package Codes;
 import java.util.Scanner;
 
 public class CompoundInterest12 {
-    public static void main(StringPrograms9[] args){
+    public static void main(String[] args){
 
         // compound interest calculator
         Scanner scanner = new Scanner(System.in);

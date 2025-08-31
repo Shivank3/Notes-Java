@@ -4,7 +4,7 @@ package Codes;
 import java.util.Scanner;
 
 public class areaOfRectangle1 {
-    public static void main(StringPrograms9[] args)
+    public static void main(String[] args)
     {
         double area = 0;
         double length = 0;

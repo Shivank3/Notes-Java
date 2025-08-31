@@ -2,7 +2,7 @@ package Codes;
 import java.util.Random;
 
 public class randomGenerator6 {
-    public static void main(StringPrograms9[] args)
+    public static void main(String[] args)
     {
         Random random = new Random();
 

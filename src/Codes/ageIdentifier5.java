@@ -2,7 +2,7 @@ package Codes;
 import java.util.Scanner;
 // Age-identifier -> define age and return based on their type
 public class ageIdentifier5 {
-    static void main(StringPrograms9[] args)
+    static void main(String[] args)
     {
         double age;
         Scanner scanner = new Scanner(System.in);

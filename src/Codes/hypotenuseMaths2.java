@@ -2,7 +2,7 @@ package Codes;
 import java.util.Scanner;
 
 public class hypotenuseMaths2 {
-    public static void main(StringPrograms9[] args)
+    public static void main(String[] args)
     {
         // hypotenuse c= Math.sqrt(a² + b²) ² for this type window+r then write charmap
 
