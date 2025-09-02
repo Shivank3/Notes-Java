@@ -1,0 +1,58 @@
+Day-1: Time Complexity- (Big-o-notation).
+
+********************************************
+problem-1:
+********************************************
+
+for(int i=0; i<n; i++) -> time complexity Big-oh(n) iteration 0-n-1 which is n+1 (1 is for failed condition)
+iterate by n times
+if n = 10 then iteration would be 10.
+
+********************************************
+problem-2:nested loop for Addition
+********************************************
+
+for(int i=0; i<n; i+=3) iterate by n/3 times
+{
+  for(int j=0; j<n; j+=2){ iterate by n/2 times
+     s.o.p(j);
+  }
+}
+(n/3)*(n/2) = n^2/6 times so T.C is n^2 for nested loop
+
+********************************************
+ Problem-3: nested loop for substraction
+********************************************
+
+ for(int i=0; i<n; i-=3) iterate by n/3 times
+ {
+   for(int j=0; j<n; j+=2){ iterate by n/2 times
+      s.o.p(j);
+   }
+ }
+
+ final t.c is n^2..
+
+********************************************
+Problem-4: multiplication nested loop
+********************************************
+
+class NestedLoop {
+	public static void main(String[] args) {
+    int n = 10; //O(1)
+		int sum = 0; //O(1)
+		double pie = 3.14; //O(1)
+
+		for (int var = 0; var < n; var++) {    //O(n)
+      int j = 1;  //O(n)
+			System.out.println("Pie: " + pie); //O(n)
+			while(j < var) { // O((n) * (log2 var))
+        sum += 1; // O((n) * (log2 var))
+        j *= 2;  // O((n) * (log2 var))098
+      }
+    } //end of for loop
+    System.out.println("Sum: " + sum); //O(1)
+  } //end of main
+} //end of class
+
+Time complexity:- O(n(log n))
