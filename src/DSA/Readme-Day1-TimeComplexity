@@ -1,8 +1,15 @@
 Day-1: Time Complexity- (Big-o-notation).
 
-********************************************
+3 types of notation mostly use
+   1. Big-O (O) it gives the worst case performance estimate not bounded by estimates.
+   2. Big-Omega (Ω) it gives the best case performance estimate.
+   3. Big-Theta (Θ) it gives the average or exact case performance estimate.
+
+   note: any notation can describe any case..
+
+**********
 problem-1:
-********************************************
+**********
 
 for(int i=0; i<n; i++) -> time complexity Big-oh(n) iteration 0-n-1 which is n+1 (1 is for failed condition)
 iterate by n times
