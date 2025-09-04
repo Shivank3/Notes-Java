@@ -1,4 +1,4 @@
-package Codes;
+package JavaConsoleBasedCodes;
 import java.util.Scanner;
 public class subStrings10 {
     public static void main(String[] args)

@@ -1,4 +1,4 @@
-package Codes;
+package JavaConsoleBasedCodes;
 // find the area of rectangle
 // we need to calculate area? -> length*breadth
 import java.util.Scanner;

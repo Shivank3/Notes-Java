@@ -1,4 +1,4 @@
-package Codes;
+package JavaConsoleBasedCodes;
 import java.util.Scanner;
 public class EnhancedSwitchCase14 {
     public static void main(String[] args)

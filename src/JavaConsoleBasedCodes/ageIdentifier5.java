@@ -1,4 +1,4 @@
-package Codes;
+package JavaConsoleBasedCodes;
 import java.util.Scanner;
 // Age-identifier -> define age and return based on their type
 public class ageIdentifier5 {

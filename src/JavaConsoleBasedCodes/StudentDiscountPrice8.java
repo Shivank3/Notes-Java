@@ -1,4 +1,4 @@
-package Codes;
+package JavaConsoleBasedCodes;
 
 public class StudentDiscountPrice8 {
     public static void main(String[] args)

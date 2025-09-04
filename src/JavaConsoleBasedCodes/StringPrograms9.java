@@ -1,4 +1,4 @@
-package Codes;
+package JavaConsoleBasedCodes;
 
 public class StringPrograms9 {
      static void main(String[] args)

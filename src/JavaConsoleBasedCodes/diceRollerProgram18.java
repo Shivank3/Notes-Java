@@ -1,4 +1,4 @@
-package Codes;
+package JavaConsoleBasedCodes;
 
 import java.util.Random;
 import java.util.Scanner;

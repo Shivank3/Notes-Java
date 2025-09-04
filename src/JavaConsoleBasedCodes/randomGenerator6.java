@@ -1,4 +1,4 @@
-package Codes;
+package JavaConsoleBasedCodes;
 import java.util.Random;
 
 public class randomGenerator6 {
