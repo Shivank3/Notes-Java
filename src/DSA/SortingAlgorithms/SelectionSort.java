@@ -1,4 +1,4 @@
-package DSA;
+package DSA.SortingAlgorithms;
 
 public class SelectionSort
 {
