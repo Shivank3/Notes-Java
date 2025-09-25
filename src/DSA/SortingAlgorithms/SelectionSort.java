@@ -17,6 +17,7 @@ public class SelectionSort
                     minIndex = j;
                 }
             }
+            // efficient sort one by one once minIndex got a value.
             int temp = arr[i];
             arr[i] = arr[minIndex];
             arr[minIndex] = temp;
